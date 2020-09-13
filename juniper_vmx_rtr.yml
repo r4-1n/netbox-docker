@@ -1,0 +1,76 @@
+manufacturer: Juniper
+model: vMX-Router
+slug: vmx_rtr
+u_height: 3
+interfaces:
+  - name: loopback10
+    type: loopback-mgmt
+  - name: loopback0
+    type: loopback-router-id
+  - name: xe-0/0/0/0
+    type: 10000base-t
+  - name: xe-0/0/0/1
+    type: 10000base-t
+  - name: xe-0/0/0/2
+    type: 10000base-t
+  - name: xe-0/0/0/3
+    type: 10000base-t
+  - name: xe-0/0/0/4
+    type: 10000base-t
+  - name: xe-0/0/0/5
+    type: 10000base-t
+  - name: xe-0/0/0/6
+    type: 10000base-t
+  - name: xe-0/0/0/7
+    type: 10000base-t
+  - name: xe-0/0/0/8
+    type: 10000base-t
+  - name: xe-0/0/0/9
+    type: 10000base-t
+  - name: xe-0/0/0/10
+    type: 10000base-t
+  - name: xe-0/0/0/11
+    type: 10000base-t
+  - name: xe-0/0/0/12
+    type: 10000base-t
+  - name: xe-0/0/0/13
+    type: 10000base-t
+  - name: xe-0/0/0/14
+    type: 10000base-t
+  - name: xe-0/0/0/15
+    type: 10000base-t
+  - name: xe-0/0/0/16
+    type: 10000base-t
+  - name: xe-0/0/0/17
+    type: 10000base-t
+  - name: xe-0/0/0/18
+    type: 10000base-t
+  - name: xe-0/0/0/19
+    type: 10000base-t
+  - name: xe-0/0/0/20
+    type: 10000base-t
+  - name: xe-0/0/0/21
+    type: 10000base-t
+  - name: xe-0/0/0/22
+    type: 10000base-t
+  - name: xe-0/0/0/23
+    type: 10000base-t
+  - name: xe-0/0/0/24
+    type: 10000base-t
+  - name: xe-0/0/0/25
+    type: 10000base-t
+  - name: xe-0/0/0/26
+    type: 10000base-t
+  - name: xe-0/0/0/27
+    type: 10000base-t
+  - name: xe-0/0/0/28
+    type: 10000base-t
+  - name: xe-0/0/0/29
+    type: 10000base-t
+  - name: xe-0/0/0/30
+    type: 10000base-t
+power-ports:
+  - name: PSU0
+  - name: PSU1
+console-ports:
+  - name: Console
